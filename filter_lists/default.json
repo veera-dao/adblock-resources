@@ -5,10 +5,10 @@
         "desc": "Default lists for Brave Browser",
         "langs": [],
         "component_id": "cffkpbalmllkdoenhmdmpbkajipdjfam",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs0qzJmHSgIiw7IGFCxij1NnB5hJ5ZQ1LKW9htL4EBOaMJvmqaDs/wfq0nw/goBHWsqqkMBynRTu2Hxxirvdbcugn1Goys5QKPgAvKwDHJp9jlnADWm5xQvPQ4GE1mK1/I3ka9cEOCzPW6GI+wGLiVPx9VZrxHHsSBIJRaEB5Tyi5bj0CZ+kcfMnRTsXIBw3C6xJgCVKISQUkd8mawVvGvqOhBOogCdb9qza5eJ1Cgx8RWKucFfaWWxKLOelCiBMT1Hm1znAoVBHG/blhJJOD5HcH/heRrB4MvrE1J76WF3fvZ03aHVcnlLtQeiNNOZ7VbBDXdie8Nomf/QswbBGaVwIDAQAB",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtGecS2SG6eNpYEPMU4HUCHvYvwa2nBE0MzVJnYkBgfSbCGLpgAxacU4eW1T1o9LOjrjF3LqglHYhouELKueZ9baHJP20pni+jvcLD2bWu9QAv99EJSQ/ihDV7Y+3A2C17P2GzvjyyBn1QffbTMay1u7BJuu5EvcJvrZPJ7QN1knBNZi3Kcdv5Z7dM2muHeUkPrC7OPAGHLIJ0V1Y4H6+u/vrgPG0pWPU7bxlwAhL1JujAAu9UWAxA/Q8ONiPPThRC6gQY+iPCWqDakVcoXvmfN3mLnXwMqhllvpPbSXAx7wMmIhEJWs8uf8kvVDroZqhVRt2tmqLBZjjuK9DOARMiwIDAQAB",
         "list_text_component": {
             "component_id": "iodkpdagapdfkphljnddpjlldadblomo",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuGTWMkNQjj2AGE11msTOStsdMeq0O0ah9dfrFP8RypkPO1HlnQtwQ/nSuBs3KHR0cXA0o49uaPxramB1jxDgV6Tyoi2e5Xu+gOJ4C4dMb6PSlGpqxZkKzOyeFb5FXpawg24qg1RXG7ksPsXAiw9sQYFYsx9fBXUmzbTdyo0WAgiIwqcOWYogNJn+MckZLRsXNq/DdCphkiz+zhcGxdaQn7/xHXNVUQJWkzR6RecbVgaLyWxhJCCZRpgGAsriOQLczp5lrcgULzDrpaDlEIorcHESHEJT4P7TVTdIqr5lMgKsbQuS4wHphFRu7/S5abdLNYBI1k4VpscMeTYqRLtSZwIDAQAB"
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs4yssZCIHVoumqRqPj3GWQfKkaqRdYJl4TE6iH3oi294noHm/sdhlzeQsqPLIapXm27AkGiy4tHREu4X5EJlUxyOBHS1sTrpqViGXvfOeqHyNulVbwbk6r0ywNJoQcZQ878AY0mpB7ipI2BfyEZhKqBS1B/aCUNaep33hQa5u75FXImO07vHKFCnxgGOfy40M0g6bYruvLm1O2OtjmWP4H7L7xGrqpAHbryBR4n9MEpIpVrQz8FJ1xOzhez+2Wrw8s7WJzRSbWPaku1XdbN3d6weHAwX90QIPmmktbffe4vNfl9KK3M1usFTSHKKQDDL7obyicWJHmro1sMNOt9E8wIDAQAB"
         },
         "sources": [
             {
@@ -133,10 +133,10 @@
         "desc": "Default filters that still take effect in standard blocking mode regardless of any first-party status",
         "langs": [],
         "component_id": "olkgheogegnkboeffagjdkcknbgapndj",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt5jKS0xNXFJYZ7gd66cMXZM7unn54kNoe13VazhNA2zsdnJHpSIiwjB5pDviDX9thenoCXUrFfQpt52Jy+a4Waxc6NpVLUCYwM2PcuZ0KUxljWQNZ8t8CYox2F+NuuKQBRrt4hzF0e1ke36hr0F1MzwhZg3xTGi7/uuMooM5+cgt+wjElzQkd2+u1yyqiDVOzY3275RLsKrxiu809IPfarULeK+ixz71gcS2S4cq71K6n/rcu3ir0OLewtV2G1Iak+CAJCgBPpCDW++teUExLZj+9mats+FGcNLYf1GgPu0DE2W1wpr/zpPSO9RBKuqy2x6cGYHBCXCmQFzFQEC6bwIDAQAB",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnRCBARE+E3bDf5qfFzZgz7q6Y0ieHbqRPV4EMs+/rzs6go3H0X1pqZhD9YQMPz2pnf+Z5pELdfCDB6Q3sZDDKQq2NlEF6tWtoJxXqZqKAQVOyoQaNXbgkj2gbMtP60V0TVBiBXxrQ8pUa3jkWWWf771/iFFpyX9wXbWAeCLcP1lmHpGIjwb52ffakS5F7bvY4QOeHeURLnUoQ3cdUtlOo8Sxgzg7cD0s/dkohN926/1xqX+QV2/CGItR16TDbRht1O3P9QhPxz4ieWsVJx0K9H5pzd5/F7of3vA5Qs6bbTj5GG3WxSfWY7/TDQ5m8k8sdOFaVq2MaU6p7WZ+Rc5vfQIDAQAB",
         "list_text_component": {
             "component_id": "adcocjohghhfpidemphmcmlmhnfgikei",
-            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtvmLp4MOseThuH/vFSc7kjr+CDCzR/ieGI8TJZyFQhzA1SKWRl4y0wB+HGkmoq0KPOzKNZq6hxK7jdm/r/nxxOjqutPoUEL+ysxePErMTse2XeWu3psGSTEjPFdQTPEwH8MF2SwXXneOraD0V/GSiCCvlx8yKIXNX7V9ujMo+QoD6hPGslKUZQJAg+OaZ7pAfq5cOuWXNN6jv12UL0eMt6Dhl31yEu4kZWeTkiccHqdlB/KvPiqXTrV+qd3Tjvsk6kmUlexu3/zlOwVDz5H/kPuOGvW7kYaW22NWQ9TH6fjffgVcSgHDbZETDiP8fHd76kyi1SZ5YJ09XHTE+i9ikQIDAQAB"
+            "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu9AxdRdv452qNr3RUQQnqsPjzixXgdoKGvUg8Axxz3oZfBH2xNvsJHqeDpBekI7Sb8kLi5bTK2i4kvAMKI32siVDlJi7yeADHVzc8vwVLBXZ4Tl2hvcfwXcQtPaI8feF5EPWRfIfUtmYRk+FH97+76NzVDUeZGbNQVnxXRSO5acALri8pygEeI3m/MUoh5GQisaeB3WwRJM0CBBHIgpuks7xMM9E1tljTdra2Wn3RGKQCQ9trZNJZYJY1KTN5GKY7+GZWTp07Yz+UVMR6Pc4cILwTaglNFogvYA0yaOx4o4Z9OMvBYPBKVvr2xtDrl2SIsJB651d1beDSsQSY4X4eQIDAQAB"
         },
         "sources": [
             {
